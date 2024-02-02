@@ -4,7 +4,7 @@ const ProjectData = [
     title: "My Portfolio",
     description:
       "This dynamic portfolio website showcases my skills and projects, built with React and Tailwind CSS. Explore my capabilities through interactive elements and a clean, modern design.",
-    githubLink: "",
+    githubLink: "https://github.com/PolatB/Portfolio",
     demoLink: "",
   },
   {
