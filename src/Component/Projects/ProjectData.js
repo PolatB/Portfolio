@@ -1,5 +1,13 @@
 const ProjectData = [
   {
+    image: "/img/Projects/Pomodoro-dark.png",
+    title: "FocusBoost",
+    description:
+      "FocusBoost is more than just a timer; it's your key to unlocking laser-sharp focus and conquering your to-do list. Built with cutting-edge technology and a sleek design, FocusBoost empowers you to achieve peak productivity using the renowned Pomodoro Technique.",
+    githubLink: "https://github.com/PolatB/pomodoro-timer",
+    demoLink: "https://focusboost.vercel.app/",
+  },
+  {
     image: "/img/Projects/Portfolio-img.png",
     title: "My Portfolio",
     description:
