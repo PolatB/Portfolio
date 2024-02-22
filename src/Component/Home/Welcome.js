@@ -10,7 +10,7 @@ function Welcome() {
         </h1>
         <div className="text-bondi-400 font-semibold text-2xl pt-4">
           <ReactTyped
-            strings={["Self-Taught", "Self-Motivated", "Front-end Developer"]}
+            strings={["Front-end Developer"]}
             typeSpeed={40}
             backSpeed={70}
             loop
