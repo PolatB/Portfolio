@@ -1,5 +1,12 @@
 const ProjectData = [
   {
+    image: "/img/Projects/CvGenerator-img.png",
+    title: "Cv Generator",
+    description: "Currently working on this project.",
+    githubLink: "https://github.com/PolatB/cv-generator",
+    demoLink: "",
+  },
+  {
     image: "/img/Projects/Pomodoro-dark.png",
     title: "FocusBoost",
     description:
