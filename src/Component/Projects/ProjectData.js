@@ -1,10 +1,11 @@
 const ProjectData = [
   {
-    image: "/img/Projects/CvGenerator-img.png",
+    image: "/img/Projects/CvCraft-img.png",
     title: "Cv Generator",
-    description: "Currently working on this project.",
+    description:
+      "CVCraft is a user-friendly CV generator app built with React, Tailwind CSS, and Radix UI. Create standout resumes tailored to your industry using our customizable template. With intuitive design tools, crafting your perfect resume has never been easier. Utilize the print feature to save or print your resume. Say goodbye to CV struggles and hello to your dream job with CVCraft.",
     githubLink: "https://github.com/PolatB/cv-generator",
-    demoLink: "",
+    demoLink: "https://cvcraft.vercel.app/",
   },
   {
     image: "/img/Projects/Pomodoro-dark.png",
@@ -13,14 +14,6 @@ const ProjectData = [
       "FocusBoost is more than just a timer; it's your key to unlocking laser-sharp focus and conquering your to-do list. Built with cutting-edge technology and a sleek design, FocusBoost empowers you to achieve peak productivity using the renowned Pomodoro Technique.",
     githubLink: "https://github.com/PolatB/pomodoro-timer",
     demoLink: "https://focusboost.vercel.app/",
-  },
-  {
-    image: "/img/Projects/Portfolio-img.png",
-    title: "My Portfolio",
-    description:
-      "This dynamic portfolio website showcases my skills and projects, built with React and Tailwind CSS. Explore my capabilities through interactive elements and a clean, modern design.",
-    githubLink: "https://github.com/PolatB/Portfolio",
-    demoLink: "",
   },
   {
     image: "/img/Projects/Pokemon-img.png",
